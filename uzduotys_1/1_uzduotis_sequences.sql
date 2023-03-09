@@ -1,0 +1,5 @@
+CREATE SEQUENCE location_id_sequence START WITH 1;
+
+CREATE SEQUENCE type_id_sequence MINVALUE 1 START WITH 1;
+
+CREATE SEQUENCE position_id_sequence MINVALUE 1 START WITH 1

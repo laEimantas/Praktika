@@ -1,1 +1,0 @@
-INSERT INTO defect_location_defect_types (location_id);
